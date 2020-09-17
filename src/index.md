@@ -1,12 +1,10 @@
 ---
 layout: home
-title: A simple starter kit for Eleventy
+title: Spiral down some rabbit holes with me
+metaDesc: "Rabbit Holes: the blog. A place to share my thoughts on tech, social
+  justice, and "
 postsHeading: Latest posts
 archiveButtonText: See all posts
-metaDesc: 'Hylia is a lightweight Eleventy starter kit to help you to create your own blog or personal website.'
-socialImage: ''
+socialImage: ""
 ---
-
-Hylia is a lightweight [Eleventy](https://11ty.io) starter kit with [Netlify CMS](https://www.netlifycms.org/) pre-configured, so that you can one-click install a progressive, accessible blog in minutes. It also gives you a well organised starting point to extend yourself. It’s by [Andy Bell](https://twitter.com/hankchizljaw) and [friends](https://github.com/aarongustafson/hylia/graphs/contributors).
-
-Get started now by [deploying Hylia to Netlify.](https://app.netlify.com/start/deploy?repository=https://github.com/hankchizljaw/hylia&stack=cms)
+Hey there. I'm Nikki, I'm a developer that likes software, hardware, and cookware. I like to write about my personal experience as an engineer, technical topics, and you may find some other stuff I like to rant about like the social justice, patriarchy,  and MLM's.

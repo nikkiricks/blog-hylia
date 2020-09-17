@@ -2,6 +2,11 @@
 layout: layouts/post.njk
 title: A Recap of My Software Engineering Immersive Experience at General
   Assembly — in 12 Tweets
+metaTitle: software engineering immersive, general assembly melbourne
+metaDesc: I started the GA Software Engineering Immersive in Melbourne September
+  30, 2019 and completed it December 20, 209. Every week I wrote about my
+  experience in a quick tweet. Here's the culmination of those insights. 🤗
+socialImage: /images/word.gif
 date: 2020-01-15T04:09:42.168Z
 tags:
   - general assembly

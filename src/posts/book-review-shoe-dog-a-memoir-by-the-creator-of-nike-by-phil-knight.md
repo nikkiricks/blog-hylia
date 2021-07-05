@@ -42,11 +42,3 @@ All the things that are so inspiring about Nike have nothing to do with Knight, 
 **Rating: 2/5**
 
 **Recommendation**: Maybe good for men in their 60’s who care about winning over everything else.
-
-Next month:
-
-[The Code of the Extraordinary Mind: 10 Unconventional Laws to Redefine Your Life and Succeed on Your Own Terms](https://amzn.to/2vLlLdc) by Vishen Lakhiani
-
-Read it with me! And [sign up to come to the Book Club](https://www.feminest.co/events/feminest-book-club-the-feminine-mystique-betty-friedman)!
-
-Have a book suggestion? Let us know in the comments below!
